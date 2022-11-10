@@ -15,6 +15,6 @@ jobs:
         xcrun \
         xcodebuild \
         -scheme SpotifyAPIExampleApp \
-        -destination "platform=iOS Simulator,name=iPhone 12,OS=14.4" \
+        -destination "platform=iOS Simulator,name=iPhone 14,OS=16" \
         build
       
